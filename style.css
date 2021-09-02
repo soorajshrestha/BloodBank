@@ -1,0 +1,215 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{background-color:#CCF;}
+
+body
+{font-size:16px; line-height:18px; font-family:arial}
+
+.wrapper
+{
+	width:1000px;
+	margin:0 auto;
+	background:#f2f2f2;
+	}	 
+		
+	 .navigation li
+ {
+	display:block;
+	float: left;	
+}
+.navigation li a
+ {
+	font-size: 25px;
+	line-height: 30px;
+	padding-left:10px;
+	text-decoration: none;
+	float:left;
+}
+	 .navigation li 
+	 {
+		  border:3px solid #626262; border-radius:10px; cursor:pointer; font-size:10px; font-weight:bold; padding:0px 0px 0px 48px;
+		 }
+		 .navigation li:hover
+		 {
+			 background:#333}
+
+
+
+	 .navigation1 li
+ {
+	display:block;
+	float: left;	
+}
+.navigation1 li a
+ {
+	font-size: 20px;
+	line-height: 30px;
+	padding-left:5px;
+	text-decoration: none;
+	float:left;
+}
+	 .navigation1 li 
+	 {
+		  border-radius:10px; text-decoration:none; font-size:10px; font-weight:bold; padding:0px 0px 0px 40px;
+		 }
+		 .navigation1 li:hover
+		 {
+			 background:#333}
+			 
+		 
+			 
+	 .navigation2 li
+ {
+	display:block;
+	float: left;	
+}
+.navigation2 li a
+ {
+	font-size: 22px;
+	line-height: 35px;
+	padding-left:10px;
+	text-decoration: none;
+	float:left;
+}
+	 .navigation2 li 
+	 {
+		  border-radius:10px; text-decoration:none; font-size:10px; font-weight:bold; padding-right:20px;
+		 }
+		 .navigation2 li:hover
+		 {
+			 background:#333}
+			 
+			 
+		 
+
+
+.changepassword
+{
+	width:700px;
+	height:auto;
+	margin:auto;
+	padding-top:100px;
+	}
+
+
+
+
+.mainmenu
+{
+	margin-top:3px;
+	
+	}
+
+
+.login_reg{width:700px; background:#e7e7e7; border:1px; solid #d2d2d2; border-radius:5px; margin:0 auto; font-size:16px; overflow:hidden; padding:20px;}
+
+input[type="text"],input[type="email"],input[type="password"],input[type="date"],select[type="option"]
+{
+	border:1px solid #d5d5d5; margin-bottom:3px; margin-right:5px; width:250px; padding:3px;
+}
+
+
+input[type="submit"], input[type="reset"]
+{
+   background: #888; border:2px solid #626262; border-radius:5px; color:#fff; cursor:pointer; font-size:15px; font-weight:bold; padding:5px 5px 5px 10px; }
+  input[type="submit"]:hover,input[type="reset"]:hover
+  {
+	  background:#333;
+	  
+	 }
+.one
+{
+	width:300px;
+	height:auto;
+	float:left;
+	padding-top:10px;
+	padding-bottom:10px;
+	
+		
+	}
+	
+	.two
+{
+	width:300px;
+	height:auto;
+	float:left;
+	padding-left:50px;
+	padding-top:10px;
+	
+	}
+	
+.three
+{
+	width:300px;
+	height:auto;
+	float:left;
+	padding-left:50px;
+	padding-top:10px;
+	
+	}
+	
+	.donor
+	{
+		width:580px;
+		height:auto;
+		padding-top:100px;
+		margin:auto;
+		}
+	
+.aboutus
+{
+	width:950px;
+	height:auto;
+	margin:auto;
+	padding-top:30px;
+	}
+	
+	.aboutus1
+{
+	width:950px;
+	height:auto;
+	margin:auto;
+	padding-top:30px;
+	}
+	
+
+
+.sales
+{
+	width:700px;
+	height:auto;
+	margin:auto;
+	padding-top:100px;
+	}
+	
+.search
+{
+	width:600px;
+	height:auto;
+	margin:auto;
+	padding-top:100px;
+	}
+.help2
+{
+	width:900px;
+	height:auto;
+	margin:auto;
+	padding-top:100px;
+	}
+
+.stock
+{
+	width:300px;
+	height:auto;
+	margin:auto;
+	padding-top:100px;
+	}
+
+	
+
+
+
+
+
